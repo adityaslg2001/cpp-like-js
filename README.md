@@ -1,9 +1,9 @@
 
 # CPP-LIKE-JS
 
-A versatile npm package designed for JavaScript developers familiar with C++.
+A versatile npm package designed for JavaScript developers familiar and accustomed with C++.
 
-Offering a STL-equivalent collection of data structures and utilities. 
+Offering a STL-equivalent & syntactically alike collection of data structures and utilities plus more functionalities. 
 
 Simplify your development process by leveraging C++ like functionalities with C++'s Syntactical Synonymosity directly in JavaScript, including vector, linked list, stack, queue, priority queues, deque, and more. 
 
